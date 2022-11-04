@@ -1,0 +1,12 @@
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.csproj.AssemblyReference.cache
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.AssemblyInfoInputs.cache
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.AssemblyInfo.cs
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.csproj.CoreCompileInputs.cache
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\bin\Debug\net6.0\ChinookSystem.deps.json
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\bin\Debug\net6.0\ChinookSystem.dll
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\bin\Debug\net6.0\ChinookSystem.pdb
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.dll
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\refint\ChinookSystem.dll
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ChinookSystem.pdb
+C:\Users\darsh\Desktop\DMIT Term 3\2018 App Dev\Web Apps\ChinookSolution\ChinookSystem\obj\Debug\net6.0\ref\ChinookSystem.dll
